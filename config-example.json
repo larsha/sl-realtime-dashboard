@@ -1,0 +1,8 @@
+{
+	"api": {
+		"url": "http://api.sl.se/api2/realtimedepartures.json",
+		"key": "",
+		"siteId": 0,
+		"timeWindow": 60
+	}
+}
